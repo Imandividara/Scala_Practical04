@@ -89,3 +89,7 @@ INFO: Unsupported notification method: $/setTrace
 2024.07.08 07:20:03 WARN  Could not find semantic tokens for: file:///C:/Users/HP/OneDrive/Documents/Scala_Project_04/Scala_Practical04/q3.scala
 2024.07.08 07:20:19 INFO  compiling scala_practical04_f4dd477a3a (1 scala source)
 2024.07.08 07:20:19 INFO  time: compiled Scala_Practical04_f4dd477a3a in 0.3s
+2024.07.08 07:21:08 INFO  Shutting down server
+2024.07.08 07:21:08 INFO  shutting down Metals
+2024.07.08 07:21:08 INFO  Shut down connection with build server.
+2024.07.08 07:21:08 INFO  Exiting server
