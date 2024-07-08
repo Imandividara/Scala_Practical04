@@ -93,3 +93,22 @@ INFO: Unsupported notification method: $/setTrace
 2024.07.08 07:21:08 INFO  shutting down Metals
 2024.07.08 07:21:08 INFO  Shut down connection with build server.
 2024.07.08 07:21:08 INFO  Exiting server
+2024.07.08 18:58:17 INFO  Started: Metals version 1.3.2 in folders 'C:\Users\HP\OneDrive\Documents\Scala_Project_04\Scala_Practical04' for client Visual Studio Code 1.91.0.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@2c429c5e]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@9556cbb]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@2c429c5e]
+2024.07.08 18:58:17 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.08 18:58:18 INFO  no build target found for C:\Users\HP\OneDrive\Documents\Scala_Project_04\Scala_Practical04\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.08 18:58:18 INFO  Attempting to connect to the build server...
+2024.07.08 18:58:18 INFO  Running BSP server List(C:\Users\HP\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\HP\OneDrive\Documents\Scala_Project_04\Scala_Practical04\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\HP\OneDrive\Documents\Scala_Project_04\Scala_Practical04\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\HP\OneDrive\Documents\Scala_Project_04\Scala_Practical04\.scala-build\ide-envs.json, C:\Users\HP\OneDrive\Documents\Scala_Project_04\Scala_Practical04)
+2024.07.08 18:58:21 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\HP\OneDrive\Documents\Scala_Project_04\Scala_Practical04\.metals\bsp.trace.json or C:\Users\HP\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.08 18:58:23 INFO  BSP server: Starting compilation server
+2024.07.08 18:58:23 INFO  no build target found for C:\Users\HP\OneDrive\Documents\Scala_Project_04\Scala_Practical04\q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 08, 2024 6:58:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.07.08 18:58:33 INFO  time: Connected to build server in 14s
+2024.07.08 18:58:33 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.08 18:58:33 INFO  time: Imported build in 0.11s
+2024.07.08 18:58:37 INFO  time: indexed workspace in 4.3s
