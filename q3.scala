@@ -22,7 +22,7 @@ object StringFormatter {
       }
     }
 
-    // Printing the formatted names
+  
     formattedNames.foreach(println)
   }
 }
