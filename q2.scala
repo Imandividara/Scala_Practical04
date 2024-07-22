@@ -4,8 +4,8 @@ object PatternMatching {
     println("Please provide an integer as a command line argument.")
     val input = args(0).toInt
     checkNumber(input)
-      
-    }
+    
+  }
   
 
   def checkNumber(number: Int): Unit = {
