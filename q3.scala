@@ -1,6 +1,6 @@
 object StringFormatter {
 
-  
+
   def toUpper(input: String): String = input.toUpperCase
 
 
